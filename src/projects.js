@@ -35,11 +35,11 @@ export const Projects = [
 
     },
     {
-        name: "Us Together",
-        description: "A github clone",
-        link:'https://github.com/himanshu-mishra22/usTogether.git',
-        techStack: 'Mongo DB, Express, React, Nodejs',
-        img: '/usTogether.jpg',
+        name: "ATM Simulator",
+        description: " Java app mimicking banking operations via interactive interface.",
+        link:'https://github.com/himanshu-mishra22/ATM-simulator.git',
+        techStack: 'Java, Java swing, java awt, MySQL',
+        img: '/atm.JPG',
         live:''
     },
     {
