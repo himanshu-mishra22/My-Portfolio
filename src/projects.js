@@ -43,11 +43,27 @@ export const Projects = [
         live:''
     },
     {
-        name: "Hotel Elite",
-        description: "An online booking platform for luxury accommodations",
-        link:'https://github.com/himanshu-mishra22/Hotel-Management.git',
-        techStack: 'Mongo DB, Express, React, Nodejs',
-        img: '/hotel1.jpg',
+        name: "Ai Interviewer",
+        description: "An Ai powered Interview platform",
+        link:'https://github.com/himanshu-mishra22/AI-Interviewer.git',
+        techStack: 'Mongo DB, Express, React, Nodejs, Tailwind CSS, Google Gemini Api',
+        img: '/Aiinterview.png',
+        live:'https://ai-interviewer-eight-mu.vercel.app/'
+    },
+    {
+        name: "Event Calendar",
+        description: "A google calendar clone",
+        link:'https://github.com/himanshu-mishra22/Event-Calendar.git',
+        techStack: 'React, Ant Designs, Tailwind CSS',
+        img: '/calendar.png',
+        live:'https://event-calend.netlify.app/'
+    },
+    {
+        name: "Exam Portal",
+        description: "A full stack exam portal",
+        link:'hhttps://github.com/himanshu-mishra22/examportal.git',
+        techStack: 'Java, Springboot, Angular, Material Design, MySQL',
+        img: '/bg.jpeg',
         live:''
     }
 ]

@@ -1,7 +1,7 @@
 import { DiJavascript, DiNodejs, DiReact } from "react-icons/di";
 import { FaJava } from "react-icons/fa6";
 import { ImCss3 } from "react-icons/im";
-import { SiExpress, SiHtml5, SiMongodb, SiTailwindcss } from "react-icons/si";
+import { SiExpress, SiHtml5, SiMongodb, SiMysql, SiTailwindcss, SiTypescript } from "react-icons/si";
 
 export const TechStack = [
     {
@@ -37,7 +37,15 @@ export const TechStack = [
         img:DiJavascript
     },
     {
-        name:'Tailwind',
+        name:'Tailwind CSS',
         img:SiTailwindcss
+    },
+    {
+        name:'Typescript',
+        img:SiTypescript
+    },
+    {
+        name:'MySQL',
+        img:SiMysql
     }
 ]

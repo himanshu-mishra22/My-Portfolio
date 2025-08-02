@@ -5,7 +5,7 @@ import { FaEnvelope } from 'react-icons/fa6';
 
 const LeftComponent = () => {
   const openResume = () => {
-    window.open("/Himanshu.pdf");
+    window.open("/resume.pdf");
   };
   return (
     <div className="w-full lg:w-[400px] lg:sticky lg:top-6 lg:h-fit mb-5" >
